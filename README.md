@@ -567,28 +567,6 @@ Make sure username/password match exactly.
 
 ---
 
-## Project Billing Information
-
-**Complexity:** Medium
-
-**Why Medium Complexity:**
-- Requires understanding of VPN concepts
-- Multiple steps (server setup, profile config, user creation, certificate export)
-- Troubleshooting NAT/port forwarding issues
-- Testing from external network
-
-**Timeline:** 3-4 hours
-- Server configuration: 1 hour
-- User setup and testing: 1 hour
-- Troubleshooting port forwarding: 1-2 hours
-
-**Your Rate:** $3/hour
-
-**Budget:**
-- **Minimum:** $9 USD (₹757 INR) - 3 hours
-- **Maximum:** $12 USD (₹1,010 INR) - 4 hours
-
-**Recommended:** $12 USD (₹1,010 INR) to account for potential troubleshooting.
 
 ---
 
