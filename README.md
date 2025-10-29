@@ -1,9 +1,9 @@
 # making-new-client-of-microtik
 
 /ppp secret add name=test-linux password=TestLinux123 service=ovpn profile=VPN-PROFILE local-address=192.168.33.1 remote-address=192.168.33.200
-```
 
----
+
+
 
 ### What Each Part Does:
 
